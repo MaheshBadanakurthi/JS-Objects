@@ -1,1 +1,1 @@
-# JS-Objects
+# JSObjects
